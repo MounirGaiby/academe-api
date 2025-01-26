@@ -20,13 +20,33 @@ Feel free to use this project for:
 - Academic assignments
 
 ## Features
+- [x] Authentication & Authorization
+  - [x] Sanctum setup
+  - [x] User registration/login
+  - [x] Admin/Student roles
+  - [x] API documentation
 
-- Sanctum Authentication (Student, Admin roles)
-- Student Profile Management
-- Course Management & Enrollment System
-- Academic Records & GPA Calculation
-- Advanced Schedule Conflict Detection
-- Waitlist System
+- [ ] Student Profile Management
+  - [ ] Student CRUD API
+  - [ ] Academic history
+  - [ ] Performance scoring
+
+- [ ] Course Management
+  - [ ] Course CRUD endpoints
+  - [ ] Capacity management
+  - [ ] Prerequisites system
+  - [ ] Search/filter functionality
+
+- [ ] Enrollment System
+  - [ ] Enrollment/drop API
+  - [ ] Schedule conflict detection
+  - [ ] Grade submission
+  - [ ] Waitlist handling
+
+- [ ] Academic Records
+  - [ ] Grade management
+  - [ ] Performance calculation
+  - [ ] Academic analytics
 
 ## Tech Stack
 
